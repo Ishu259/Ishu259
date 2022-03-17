@@ -1,7 +1,7 @@
 <h1 align="center">Hey geeks, I'm Ishwarya</h1>
 <h3 align="center">A passionate flutter developer and C++ aspirant from India</h3>
 
-- 🌱 I’m currently learning **mongodb**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **flutter**
 
